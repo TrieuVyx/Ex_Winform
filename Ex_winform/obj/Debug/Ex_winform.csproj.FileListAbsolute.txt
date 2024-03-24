@@ -1,0 +1,10 @@
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\bin\Debug\Ex_winform.exe.config
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\bin\Debug\Ex_winform.exe
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\bin\Debug\Ex_winform.pdb
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\obj\Debug\Ex_winform.csproj.AssemblyReference.cache
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\obj\Debug\Ex_winform.Form1.resources
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\obj\Debug\Ex_winform.Properties.Resources.resources
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\obj\Debug\Ex_winform.csproj.GenerateResource.cache
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\obj\Debug\Ex_winform.csproj.CoreCompileInputs.cache
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\obj\Debug\Ex_winform.exe
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\Ex_winform\Ex_winform\obj\Debug\Ex_winform.pdb
